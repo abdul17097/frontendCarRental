@@ -1,0 +1,9 @@
+.offer{
+    background-image: url("/offer.jpg");
+    background-size: cover;
+    color: white;
+    background-position: 50%;
+    background-repeat: no-repeat;
+    height: 100%;
+    width: 100%;
+}
